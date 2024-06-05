@@ -1,1 +1,2 @@
-# PowerBi-project
+# Data Professional Survey Analysis
+Welcome to the Data Professional Survey Analysis project repository! This project involves analyzing survey data from data professionals to gain insights into industry trends, job satisfaction, skills, and other relevant topics. The analysis is performed using Power BI to create interactive and visually appealing dashboards.
